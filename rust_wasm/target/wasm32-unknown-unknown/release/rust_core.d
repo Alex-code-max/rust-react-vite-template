@@ -1,0 +1,1 @@
+/Users/soar/Documents/self_workspace/rust-react-vite-template/rust_wasm/target/wasm32-unknown-unknown/release/rust_core.wasm: /Users/soar/Documents/self_workspace/rust-react-vite-template/rust_wasm/src/lib.rs
